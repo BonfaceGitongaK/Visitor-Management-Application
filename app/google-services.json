@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "960257875563",
+    "project_id": "final-year-project-c2a0b",
+    "storage_bucket": "final-year-project-c2a0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960257875563:android:cfea92c1186a1f7d951b2e",
+        "android_client_info": {
+          "package_name": "com.example.bonnie.visitormanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960257875563-06i6i7mkb2rj0dusnlgi7bgdhf00brvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bonnie.visitormanagement",
+            "certificate_hash": "866121e7783c1925072daa534b5d915aacaf5ed8"
+          }
+        },
+        {
+          "client_id": "960257875563-gvovo6pekj0ij50t1f2l0bqlpfe03qp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgYqa65zW-QyzdnFLvrMY2WZlYBzeDbJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960257875563-gvovo6pekj0ij50t1f2l0bqlpfe03qp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
